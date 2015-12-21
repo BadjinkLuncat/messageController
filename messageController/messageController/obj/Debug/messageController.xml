@@ -1,0 +1,39 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+messageController
+</name>
+</assembly>
+<members>
+<member name="P:messageController.logging.LogName">
+	<summary>
+ Gets or sets the application's name.
+ </summary>
+</member><member name="P:messageController.logging.LogPath">
+	<summary>
+ Gets or sets the path of the log file.
+ </summary>
+</member><member name="P:messageController.logging.FileExtension">
+	<summary>
+ Gets or sets the extension of the log file.
+ </summary>
+</member><member name="P:messageController.logging.MaximumFileSize">
+	<summary>
+ Gets or sets the maximum size of the log file in Kilobytes.
+ </summary>
+</member><member name="P:messageController.logging.DateTimeFormat">
+	<summary>
+ Gets or sets the date/time format used to write the log file contents.
+ </summary>
+</member><member name="P:messageController.logging.DeclaringAssembly">
+	<summary>
+ Gets or sets the declaring/calling assembly.
+ </summary>
+</member><member name="P:messageController.logging.WriteAssemblyInfo">
+	<summary>
+ Gets or sets the value whether to write the assembly info or not.
+ </summary>
+</member>
+</members>
+</doc>

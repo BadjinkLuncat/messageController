@@ -1,0 +1,44 @@
+D:\FAUZIL\OFF SIDE\SMS Instan\Application\messageController\messageController\bin\Debug\messageController.exe.config
+D:\FAUZIL\OFF SIDE\SMS Instan\Application\messageController\messageController\bin\Debug\messageController.exe
+D:\FAUZIL\OFF SIDE\SMS Instan\Application\messageController\messageController\bin\Debug\messageController.pdb
+D:\FAUZIL\OFF SIDE\SMS Instan\Application\messageController\messageController\bin\Debug\messageController.xml
+D:\FAUZIL\OFF SIDE\SMS Instan\Application\messageController\messageController\obj\Debug\ResolveAssemblyReference.cache
+D:\FAUZIL\OFF SIDE\SMS Instan\Application\messageController\messageController\obj\Debug\messageController.Form1.resources
+D:\FAUZIL\OFF SIDE\SMS Instan\Application\messageController\messageController\obj\Debug\messageController.Resources.resources
+D:\FAUZIL\OFF SIDE\SMS Instan\Application\messageController\messageController\obj\Debug\messageController.vbproj.GenerateResource.Cache
+D:\FAUZIL\OFF SIDE\SMS Instan\Application\messageController\messageController\obj\Debug\messageController.exe
+D:\FAUZIL\OFF SIDE\SMS Instan\Application\messageController\messageController\obj\Debug\messageController.xml
+D:\FAUZIL\OFF SIDE\SMS Instan\Application\messageController\messageController\obj\Debug\messageController.pdb
+D:\FAUZIL\OFF SIDE\SMS Instan\Application\messageController\messageController\bin\Release\messageController.exe.config
+D:\FAUZIL\OFF SIDE\SMS Instan\Application\messageController\messageController\bin\Release\messageController.exe
+D:\FAUZIL\OFF SIDE\SMS Instan\Application\messageController\messageController\bin\Release\messageController.pdb
+D:\FAUZIL\OFF SIDE\SMS Instan\Application\messageController\messageController\bin\Release\messageController.xml
+D:\FAUZIL\OFF SIDE\SMS Instan\Application\messageController\messageController\obj\Release\ResolveAssemblyReference.cache
+D:\FAUZIL\OFF SIDE\SMS Instan\Application\messageController\messageController\obj\Release\messageController.Form1.resources
+D:\FAUZIL\OFF SIDE\SMS Instan\Application\messageController\messageController\obj\Release\messageController.Resources.resources
+D:\FAUZIL\OFF SIDE\SMS Instan\Application\messageController\messageController\obj\Release\messageController.vbproj.GenerateResource.Cache
+D:\FAUZIL\OFF SIDE\SMS Instan\Application\messageController\messageController\obj\Release\messageController.exe
+D:\FAUZIL\OFF SIDE\SMS Instan\Application\messageController\messageController\obj\Release\messageController.xml
+D:\FAUZIL\OFF SIDE\SMS Instan\Application\messageController\messageController\obj\Release\messageController.pdb
+E:\SMSInstan\Source\Application\messageController\messageController\bin\Release\messageController.exe.config
+E:\SMSInstan\Source\Application\messageController\messageController\obj\Release\messageController.exe
+E:\SMSInstan\Source\Application\messageController\messageController\obj\Release\messageController.xml
+E:\SMSInstan\Source\Application\messageController\messageController\obj\Release\messageController.pdb
+E:\SMSInstan\Source\Application\messageController\messageController\bin\Release\messageController.exe
+E:\SMSInstan\Source\Application\messageController\messageController\bin\Release\messageController.pdb
+E:\SMSInstan\Source\Application\messageController\messageController\bin\Release\messageController.xml
+E:\SMSInstan\Source\Application\messageController\messageController\obj\Release\ResolveAssemblyReference.cache
+E:\SMSInstan\Source\Application\messageController\messageController\obj\Release\messageController.Form1.resources
+E:\SMSInstan\Source\Application\messageController\messageController\obj\Release\messageController.Resources.resources
+E:\SMSInstan\Source\Application\messageController\messageController\obj\Release\messageController.vbproj.GenerateResource.Cache
+E:\FILE PROYEK\SOURCE yang BENER\ENGINE\Source\Application\messageController\messageController\bin\Release\messageController.exe.config
+E:\FILE PROYEK\SOURCE yang BENER\ENGINE\Source\Application\messageController\messageController\obj\Release\messageController.exe
+E:\FILE PROYEK\SOURCE yang BENER\ENGINE\Source\Application\messageController\messageController\obj\Release\messageController.xml
+E:\FILE PROYEK\SOURCE yang BENER\ENGINE\Source\Application\messageController\messageController\obj\Release\messageController.pdb
+E:\FILE PROYEK\SOURCE yang BENER\ENGINE\Source\Application\messageController\messageController\bin\Release\messageController.exe
+E:\FILE PROYEK\SOURCE yang BENER\ENGINE\Source\Application\messageController\messageController\bin\Release\messageController.pdb
+E:\FILE PROYEK\SOURCE yang BENER\ENGINE\Source\Application\messageController\messageController\bin\Release\messageController.xml
+E:\FILE PROYEK\SOURCE yang BENER\ENGINE\Source\Application\messageController\messageController\obj\Release\ResolveAssemblyReference.cache
+E:\FILE PROYEK\SOURCE yang BENER\ENGINE\Source\Application\messageController\messageController\obj\Release\messageController.Form1.resources
+E:\FILE PROYEK\SOURCE yang BENER\ENGINE\Source\Application\messageController\messageController\obj\Release\messageController.Resources.resources
+E:\FILE PROYEK\SOURCE yang BENER\ENGINE\Source\Application\messageController\messageController\obj\Release\messageController.vbproj.GenerateResource.Cache

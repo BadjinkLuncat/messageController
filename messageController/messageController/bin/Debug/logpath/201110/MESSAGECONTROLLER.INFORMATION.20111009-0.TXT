@@ -1,0 +1,20 @@
+=============================================================
+[LogName:='MESSAGECONTROLLER'; LogType:='INFORMATION']
+[DateTimeFormat:='MM/dd/yyyy HH:mm:ss'; MaxFileSize:='512KB']
+
+[Date/Time] - [Assembly] - [Message]
+=============================================================
+
+10/09/2011 14:06:50 	messageController - v1.0.0.0	Agent started.
+10/09/2011 14:06:50 	messageController - v1.0.0.0	test 1
+10/09/2011 14:06:51 	messageController - v1.0.0.0	test 2
+10/09/2011 14:06:52 	messageController - v1.0.0.0	test 3
+10/09/2011 14:06:53 	messageController - v1.0.0.0	test 4
+10/09/2011 14:06:54 	messageController - v1.0.0.0	test 5
+10/09/2011 14:06:55 	messageController - v1.0.0.0	test 6
+10/09/2011 14:06:56 	messageController - v1.0.0.0	test 7
+10/09/2011 14:06:57 	messageController - v1.0.0.0	test 8
+10/09/2011 14:06:58 	messageController - v1.0.0.0	test 9
+10/09/2011 14:06:59 	messageController - v1.0.0.0	test 10
+10/09/2011 14:07:34 	messageController - v1.0.0.0	Agent started.
+10/09/2011 14:08:01 	messageController - v1.0.0.0	Agent started.

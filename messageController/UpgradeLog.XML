@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="messageController">
+</Property><Property Name="Solution File" Value="D:\backup\Application\messageController\messageController.sln">
+</Property><Property Name="User Options File" Value="D:\backup\Application\messageController\messageController.suo">
+</Property><Property Name="Date" Value="Wednesday, May 08, 2013">
+</Property><Property Name="Time" Value="18:53 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="messageController.sln" Description="File successfully backed up as D:\backup\Application\messageController\Backup\messageController.sln">
+</Event><Event ErrorLevel="0" Project="" Source="messageController.suo" Description="File successfully backed up as D:\backup\Application\messageController\Backup\messageController.suo">
+</Event><Event ErrorLevel="0" Project="messageController" Source="messageController\messageController.vbproj" Description="Project file successfully backed up as D:\backup\Application\messageController\Backup\messageController\messageController.vbproj">
+</Event><Event ErrorLevel="0" Project="messageController" Source="messageController\messageController.vbproj.user" Description="Project user file successfully backed up as D:\backup\Application\messageController\Backup\messageController\messageController.vbproj.user">
+</Event><Event ErrorLevel="0" Project="messageController" Source="messageController\Class\IMessageControl.vb" Description="File successfully backed up as D:\backup\Application\messageController\Backup\messageController\Class\IMessageControl.vb">
+</Event><Event ErrorLevel="0" Project="messageController" Source="messageController\Class\logging.vb" Description="File successfully backed up as D:\backup\Application\messageController\Backup\messageController\Class\logging.vb">
+</Event><Event ErrorLevel="0" Project="messageController" Source="messageController\Class\xmlMessage.vb" Description="File successfully backed up as D:\backup\Application\messageController\Backup\messageController\Class\xmlMessage.vb">
+</Event><Event ErrorLevel="0" Project="messageController" Source="messageController\Form1.vb" Description="File successfully backed up as D:\backup\Application\messageController\Backup\messageController\Form1.vb">
+</Event><Event ErrorLevel="0" Project="messageController" Source="messageController\Form1.Designer.vb" Description="File successfully backed up as D:\backup\Application\messageController\Backup\messageController\Form1.Designer.vb">
+</Event><Event ErrorLevel="0" Project="messageController" Source="messageController\My Project\AssemblyInfo.vb" Description="File successfully backed up as D:\backup\Application\messageController\Backup\messageController\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="messageController" Source="messageController\My Project\Application.Designer.vb" Description="File successfully backed up as D:\backup\Application\messageController\Backup\messageController\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="messageController" Source="messageController\My Project\Resources.Designer.vb" Description="File successfully backed up as D:\backup\Application\messageController\Backup\messageController\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="messageController" Source="messageController\My Project\Settings.Designer.vb" Description="File successfully backed up as D:\backup\Application\messageController\Backup\messageController\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="messageController" Source="messageController\Class\workThread.vb" Description="File successfully backed up as D:\backup\Application\messageController\Backup\messageController\Class\workThread.vb">
+</Event><Event ErrorLevel="0" Project="messageController" Source="messageController\app.config" Description="File successfully backed up as D:\backup\Application\messageController\Backup\messageController\app.config">
+</Event><Event ErrorLevel="0" Project="messageController" Source="messageController\My Project\Application.myapp" Description="File successfully backed up as D:\backup\Application\messageController\Backup\messageController\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="messageController" Source="messageController\My Project\Settings.settings" Description="File successfully backed up as D:\backup\Application\messageController\Backup\messageController\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="messageController" Source="messageController\Form1.resx" Description="File successfully backed up as D:\backup\Application\messageController\Backup\messageController\Form1.resx">
+</Event><Event ErrorLevel="0" Project="messageController" Source="messageController\My Project\Resources.resx" Description="File successfully backed up as D:\backup\Application\messageController\Backup\messageController\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="messageController" Source="messageController\messageController.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="messageController" Source="messageController\messageController.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="messageController.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="messageController.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="messageController" Source="messageController\messageController.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

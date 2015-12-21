@@ -1,0 +1,42 @@
+D:\backup\Application\messageController\messageController\bin\Release\messageController.exe.config
+D:\backup\Application\messageController\messageController\obj\Release\messageController.exe
+D:\backup\Application\messageController\messageController\obj\Release\messageController.xml
+D:\backup\Application\messageController\messageController\obj\Release\messageController.pdb
+D:\backup\Application\messageController\messageController\bin\Release\messageController.exe
+D:\backup\Application\messageController\messageController\bin\Release\messageController.pdb
+D:\backup\Application\messageController\messageController\bin\Release\messageController.xml
+D:\backup\Application\messageController\messageController\obj\Release\messageController.Form1.resources
+D:\backup\Application\messageController\messageController\obj\Release\messageController.Resources.resources
+D:\backup\Application\messageController\messageController\obj\Release\messageController.vbproj.GenerateResource.Cache
+D:\Data Public\Engine\messageController\messageController\bin\Release\messageController.exe.config
+D:\Data Public\Engine\messageController\messageController\obj\Release\messageController.exe
+D:\Data Public\Engine\messageController\messageController\obj\Release\messageController.xml
+D:\Data Public\Engine\messageController\messageController\obj\Release\messageController.pdb
+E:\Nova\Engine\messageController\messageController\bin\Release\messageController.exe.config
+E:\Nova\Engine\messageController\messageController\obj\Release\messageController.exe
+E:\Nova\Engine\messageController\messageController\obj\Release\messageController.xml
+E:\Nova\Engine\messageController\messageController\obj\Release\messageController.pdb
+E:\Nova\Engine\messageController\messageController\bin\Release\messageController.exe
+E:\Nova\Engine\messageController\messageController\bin\Release\messageController.pdb
+E:\Nova\Engine\messageController\messageController\bin\Release\messageController.xml
+E:\Nova\Engine\messageController\messageController\obj\Release\messageController.Form1.resources
+E:\Nova\Engine\messageController\messageController\obj\Release\messageController.Resources.resources
+E:\Nova\Engine\messageController\messageController\obj\Release\messageController.vbproj.GenerateResource.Cache
+E:\Kantor\Nova\Engine\messageController\messageController\bin\Release\messageController.exe.config
+E:\Kantor\Nova\Engine\messageController\messageController\obj\Release\messageController.exe
+E:\Kantor\Nova\Engine\messageController\messageController\obj\Release\messageController.xml
+E:\Kantor\Nova\Engine\messageController\messageController\obj\Release\messageController.pdb
+E:\Kantor\Nova\Engine\messageController\messageController\bin\Release\messageController.exe
+E:\Kantor\Nova\Engine\messageController\messageController\bin\Release\messageController.pdb
+E:\Kantor\Nova\Engine\messageController\messageController\bin\Release\messageController.xml
+E:\Kantor\Nova\Engine\messageController\messageController\obj\Release\messageController.Form1.resources
+E:\Kantor\Nova\Engine\messageController\messageController\obj\Release\messageController.Resources.resources
+E:\Kantor\Nova\Engine\messageController\messageController\obj\Release\messageController.vbproj.GenerateResource.Cache
+E:\MyJobs\MagPro\Engine\messageController\messageController\bin\Release\messageController.exe.config
+E:\MyJobs\MagPro\Engine\messageController\messageController\obj\Release\messageController.exe
+E:\MyJobs\MagPro\Engine\messageController\messageController\obj\Release\messageController.xml
+E:\MyJobs\MagPro\Engine\messageController\messageController\obj\Release\messageController.pdb
+E:\MyJobs\Engine\messageController\messageController\bin\Release\messageController.exe.config
+E:\MyJobs\Engine\messageController\messageController\obj\Release\messageController.exe
+E:\MyJobs\Engine\messageController\messageController\obj\Release\messageController.xml
+E:\MyJobs\Engine\messageController\messageController\obj\Release\messageController.pdb
